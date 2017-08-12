@@ -11,4 +11,4 @@ To Run the code:
 4. Enjoy!! 
 
 
-![Alt text](/app_screenshot.png?raw=true "Screenshot")
+![Alt text](app_screenshot.PNG?raw=true "Screenshot")
