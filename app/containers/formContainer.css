@@ -1,0 +1,15 @@
+.input { width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.div_input { margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  position: relative;
+}
+
+.label  { position: 'relative'; margin-right: '10px'; }
