@@ -9,3 +9,6 @@ To Run the code:
 2. ``` npm start ```
 3. Go to ``` localhost:3000 ```
 4. Enjoy!! 
+
+
+![Alt text](/app_screenshot.png?raw=true "Screenshot")
